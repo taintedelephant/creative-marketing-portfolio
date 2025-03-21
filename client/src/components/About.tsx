@@ -44,7 +44,7 @@ export default function About() {
             transition={{ duration: 0.6 }}
           >
             <p className="text-lg mb-6 text-gray-600">
-              Hello! I'm Sarah Johnson, a passionate marketing professional with over 7 years of experience creating impactful campaigns for brands across various industries.
+              Hello! I'm Coco B, a passionate marketing professional with over 7 years of experience creating impactful campaigns for brands across various industries.
             </p>
             <p className="text-lg mb-6 text-gray-600">
               My approach combines data-driven insights with creative storytelling to develop marketing strategies that not only look stunning but deliver real results for my clients.

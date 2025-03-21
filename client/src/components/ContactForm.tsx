@@ -205,8 +205,8 @@ export default function ContactForm() {
                     </div>
                     <div>
                       <h4 className="font-semibold mb-1">Email</h4>
-                      <a href="mailto:sarah@creativemarketingpro.com" className="text-primary hover:text-amber-500 transition-all">
-                        sarah@creativemarketingpro.com
+                      <a href="mailto:coco@creativemarketingpro.com" className="text-primary hover:text-amber-500 transition-all">
+                        coco@creativemarketingpro.com
                       </a>
                     </div>
                   </div>

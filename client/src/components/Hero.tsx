@@ -58,7 +58,7 @@ export default function Hero() {
               <div className="relative">
                 <img 
                   src="/images/profile.png" 
-                  alt="Sarah Johnson - Marketing Freelancer" 
+                  alt="Coco B - Marketing Freelancer" 
                   className="w-64 h-64 md:w-80 md:h-80 object-cover rounded-full border-4 border-white shadow-xl" 
                 />
               </div>

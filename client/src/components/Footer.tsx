@@ -28,7 +28,7 @@ export default function Footer() {
                 <Dribbble className="h-5 w-5" />
               </a>
             </div>
-            <p className="text-gray-500 text-sm">&copy; {new Date().getFullYear()} Sarah Johnson. All rights reserved.</p>
+            <p className="text-gray-500 text-sm">&copy; {new Date().getFullYear()} Coco B. All rights reserved.</p>
           </div>
         </div>
       </div>

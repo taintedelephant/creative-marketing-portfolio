@@ -13,7 +13,7 @@ export default function Landing() {
   return (
     <>
       <Helmet>
-        <title>Sarah Johnson | Creative Marketing Freelancer</title>
+        <title>Coco B | Creative Marketing Freelancer</title>
         <meta name="description" content="Professional marketing freelancer specializing in creative campaigns, brand strategy, and digital marketing solutions." />
       </Helmet>
       
