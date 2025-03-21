@@ -7,8 +7,8 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
             <a href="#" className="text-2xl font-bold">
-              <span className="text-primary">Sarah</span>
-              <span className="text-amber-500">J.</span>
+              <span className="text-primary">Coco</span>
+              <span className="text-amber-500">B.</span>
             </a>
             <p className="text-gray-400 mt-2">Creative Marketing Freelancer</p>
           </div>
