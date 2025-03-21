@@ -57,7 +57,7 @@ export default function Hero() {
               <div className="absolute -inset-1 rounded-full bg-gradient-to-br from-primary to-amber-500 blur-md opacity-50"></div>
               <div className="relative">
                 <img 
-                  src="/attached_assets/Screenshot_20250321-105431.png" 
+                  src="/images/profile.png" 
                   alt="Sarah Johnson - Marketing Freelancer" 
                   className="w-64 h-64 md:w-80 md:h-80 object-cover rounded-full border-4 border-white shadow-xl" 
                 />
